@@ -16,8 +16,10 @@ To run this application, you need to have Python and Flask installed.
 You can install Flask using pip:
 ```bash
 pip install Flask
+```
 
 ### Running Application
 You can run the application by running:
 ```bash
 python app.py
+```
